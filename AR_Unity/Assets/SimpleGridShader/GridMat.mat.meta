@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0cc192ab7f73fcd45befe7c501426515
+timeCreated: 1527928195
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 119988
+  packageName: Simple Grid Shader
+  packageVersion: 1.0
+  assetPath: Assets/SimpleGridShader/GridMat.mat
+  uploadId: 275166

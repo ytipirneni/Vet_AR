@@ -1,4 +1,4 @@
-# Vet_AR: Augmented Reality Application for Veterinary Surgical Annotation
+# Vet AR: Augmented Reality Application for Veterinary Surgical Annotation Simulation
 
 ## Overview
 This repository contains the Unity-based augmented reality (AR) application developed for a pilot study evaluating the feasibility of AR glasses in veterinary surgical oncology. The application integrates hand-tracking, holographic 3D canine cadaver models, and annotation tools to assess spatial accuracy in surgical planning and training. This work is associated with the manuscript: **Tipirneni Y, Goldschmidt S. Pilot study to assess the utility of augmented reality (AR) glasses for spatial tracking and surgical annotation in veterinary medicine. *Frontiers in Veterinary Science* (Oral and Maxillofacial Surgery Section), 2025.**

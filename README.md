@@ -42,7 +42,7 @@ This repository contains the Unity-based augmented reality (AR) application deve
 
 ## Citation
 If you use this code or dataset, please cite:  
-Tipirneni Y, Goldschmidt S. *Pilot study to assess the utility of augmented reality (AR) glasses for spatial tracking and surgical annotation in veterinary medicine.* Frontiers in Veterinary Science, 2025.  
+Tipirneni Y, Goldschmidt S. *Pilot Study to Assess the Utility of Augmented Reality (AR) Glasses for Spatial Tracking and Surgical Annotation in Veterinary Oromaxillofacial Surgery.* Frontiers in Veterinary Science, 2025.  
 
 ## License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
